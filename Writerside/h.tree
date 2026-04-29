@@ -3,9 +3,28 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="h"
-                 name="Home"
+                 name="Nex System Documentation"
                  start-page="home.md">
 
-    <toc-element topic="home.md"/>
-    <toc-element topic="nex-npc.md"/>
+    <toc-element topic="home.md">
+        <toc-element topic="Nex-Install.md">
+            <toc-element topic="Surf-api.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Contribution﻿.md">
+        <toc-element topic="Documentation.md"/>
+    </toc-element>
+    <toc-element topic="Nex-Repo.md">
+        <toc-element topic="Nex-Nametag.md"/>
+        <toc-element topic="Nex-Scoreboard.md"/>
+        <toc-element topic="Nex-Friends.md"/>
+        <toc-element topic="Nex-motd.md"/>
+        <toc-element topic="Nex-Lobbx.md"/>
+        <toc-element topic="Nex-Chat.md"/>
+        <toc-element topic="Nex-Punish.md"/>
+        <toc-element topic="Nex-Tool.md"/>
+    </toc-element>
+    <toc-element topic="Weitere-Projekte.md">
+        <toc-element topic="Ice-boat-race.md"/>
+    </toc-element>
 </instance-profile>

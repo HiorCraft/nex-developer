@@ -1,0 +1,3 @@
+# Nex motd
+
+Start typing here...

@@ -12,9 +12,3 @@ Ja, Nex System nutzt Mehre Apis, um eine Vielzahl von Funktionen bereitzustellen
 - **CommandAPI**: Für die Erstellung und Verwaltung von Befehlen.
 - **LuckPerms**: Für die Verwaltung von Berechtigungen und Gruppen.
 - **Surf-API**: Für die Logik und Verwaltung von Projekten und Aufgaben.
-
-## Nex System hat auch Frameworks?
-
-Ja, Nex System verwendet verschiedene Frameworks, um die Entwicklung und Wartung zu erleichtern. Dazu gehören:
-
-- **Nex-Npc**: Für die Entwicklung von NPCs
